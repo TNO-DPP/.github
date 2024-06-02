@@ -1,8 +1,8 @@
-# Digital Product Passport
+# Digital Product Passports
 
 ## Introduction
 
-Welcome to Singraphus, TNO's Digital Product Passport repository! This project aims at co-ordinating efforts around standardization for Digital Product Passports, which provide a comprehensive way to document and share information about digital products. We identify some gaps in existing implementations surrounding Digital Product Passports, which we try to address from the perspective of adopters across various contexts and industries. Our vision of a generic Digital Product Passport infrastructure spans as many use-cases as possible, and tries to stay agnostic of normative standards, while covering perspectives of significant interest.
+Welcome to TNO's Digital Product Passport repository! This project aims at co-ordinating efforts around standardization for Digital Product Passports, which provide a comprehensive way to document and share information about digital products. We identify some gaps in existing implementations surrounding Digital Product Passports, which we try to address from the perspective of adopters across various contexts and industries. Our vision of a generic Digital Product Passport infrastructure spans as many use-cases as possible, and tries to stay agnostic of normative standards, while covering perspectives of significant interest.
 
 ## Getting Started
 
